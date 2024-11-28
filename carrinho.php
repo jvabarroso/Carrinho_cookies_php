@@ -74,9 +74,3 @@ if (isset($_GET['excluir'])) {
     </div>
 </body>
 </html>
-
-
-
-
-
-

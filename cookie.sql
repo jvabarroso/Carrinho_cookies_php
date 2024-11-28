@@ -22,9 +22,3 @@ VALUES
 ('imgs/img3.webp'), 
 ('imgs/img4.webp'), 
 ('imgs/img5.webp');
-
-
-
-
-
-
