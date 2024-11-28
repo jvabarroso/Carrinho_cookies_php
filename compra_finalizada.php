@@ -7,7 +7,6 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
     exit();
 }
 
-// Não limpar o carrinho aqui para manter os produtos após a finalização da compra.
 ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
